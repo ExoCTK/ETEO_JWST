@@ -1,0 +1,21 @@
+userInput.in - 
+Formatting here is very important, please put the instructed content on the instructed line.
+Exo_Transmit home directory:
+/Users/mhill/Research/WASP107b
+Temperature-Pressure data file:
+/T_P/t_p_800K.dat
+Equation of State file:
+/EOS/eos_0p1Xsolar_gas.dat
+Output file:
+/Spectra/P_1000.0_eos_0p1Xsolar_gas_spec_test.dat
+Planet surface gravity (in m/s^-2):      
+3.592467394508861
+Planet radius (in m): -- This is the planet's radius at the base of the atmosphere (or at the cloud top for cloudy calculations) 
+65057720.0
+Star radius (in m):
+459162000.0
+Pressure of cloud top (in Pa), -- or leave at 0.0 if you want no cloud calculations.
+1000.0
+Rayleigh scattering augmentation factor -- default is 1.0.  Can be increased to simulate additional sources of scattering.  0.0 turns off Rayleigh scattering.  
+1.0
+End of userInput.in (Do not change this line)
