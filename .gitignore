@@ -1,2 +1,3 @@
-extract1D/.ipynb_checkpoints
-*.fits
+.ipynb_checkpoints
+.DS_Store
+*.pyc
