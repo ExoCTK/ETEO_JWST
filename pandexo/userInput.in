@@ -1,7 +1,7 @@
 userInput.in - 
 Formatting here is very important, please put the instructed content on the instructed line.
 Exo_Transmit home directory:
-/Users/mhill/Research/WASP107b
+YOUR_PATH/
 Temperature-Pressure data file:
 /T_P/t_p_800K.dat
 Equation of State file:
@@ -9,9 +9,9 @@ Equation of State file:
 Output file:
 /Spectra/P_1000.0_eos_0p1Xsolar_gas_spec_test.dat
 Planet surface gravity (in m/s^-2):      
-3.592467394508861
+3.366820110222712
 Planet radius (in m): -- This is the planet's radius at the base of the atmosphere (or at the cloud top for cloudy calculations) 
-65057720.0
+67202480.0
 Star radius (in m):
 459162000.0
 Pressure of cloud top (in Pa), -- or leave at 0.0 if you want no cloud calculations.
