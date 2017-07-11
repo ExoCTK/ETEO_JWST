@@ -1,0 +1,21 @@
+name: exoctk_demo
+
+channels:
+    - astropy
+    - http://ssb.stsci.edu/astroconda
+
+dependencies:
+    - astropy
+    - Cython
+    - matplotlib
+    - numpy
+    - scipy
+    - numba
+    - h5py
+    - bokeh
+    - pysynphot
+    - notebook
+    - pip:
+        - batman-package
+        - bibtexparser
+        - git+git://github.com/ExoCTK/ExoCTK.git
